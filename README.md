@@ -16,7 +16,7 @@ I'm all about community collaboration. If you have cool ideas or want to dive in
 
 - **Twitch:** [@astrocodenovo](https://www.twitch.tv/astrocodenovo)
 - **YouTube:** [astrocodenovo on YouTube](https://www.youtube.com/c/astrocodenovo)
-- **Discord:** [astrocodenovo's Coding Lounge](https://discord.gg/astrocodenovo)
+- **Discord:** [astrocodenovo's Coding Lounge]() - *Coming soon!*
 - **Twitter:** [@astrocodenovo](https://twitter.com/astrocodenovo)
 
 Let's code, create, and have a blast! 🚀✨
